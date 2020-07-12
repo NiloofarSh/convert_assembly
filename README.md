@@ -17,7 +17,7 @@ Questions may also be sent to the Ensembl help desk at
 Summary
 =======
 
-A program to map slices from GRCh38 assembly to GRCh37 (older) assembly.
+A program to map slices from GRCh38 assembly to GRCh37 assembly.
 
 
 Documentation

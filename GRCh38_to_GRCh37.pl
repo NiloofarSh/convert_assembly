@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# Manipulated by Niloofar Shirvanizadeh
+# Manipulated by Niloofar Shirvanizadeh July 2020.
 # Copyright [1999-2015] Wellcome Trust Sanger Institute and the EMBL-European Bioinformatics Institute
 # Copyright [2016-2020] EMBL-European Bioinformatics Institute
 # 

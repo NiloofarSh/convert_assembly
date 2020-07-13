@@ -32,6 +32,7 @@ Usage:
   GRCh38_to_GRCh37.pl --species=species --file=filename
   
   For example:
+  
   perl GRCh38_to_GRCh37.pl -s human -f sample_input.in
 
     --species / -s  Name of species.

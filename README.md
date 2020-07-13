@@ -43,13 +43,11 @@ Usage:
                       coord_system:version:seq_region_name:start🔚strand
 
                     For example:
-
-                      chromosome:NCBI36:X:1:10000:1
-
-                    NB:  Mappings are only available for chromosomes to
-                    the latest assembly, and only from old assemblies to
-                    the latest assembly, not between old assemblies or
-                    *from* the latest assembly.
+                    chromosome:GRCh38:10:25000:30000:1
+                      
+                     NB:  Mappings are only available for chromosomes 
+                    from the latest assembly (GRCh38) to the old assembly 
+                    (GRCh37).
 
                     If the strand is missing, the positive ("1") strand
                     will be used.

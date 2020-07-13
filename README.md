@@ -31,7 +31,7 @@ Usage:
 
   GRCh38_to_GRCh37.pl --species=species --file=filename
   
-  Example usage::
+Example usage:
   
   perl GRCh38_to_GRCh37.pl -s human -f sample_input.in
   

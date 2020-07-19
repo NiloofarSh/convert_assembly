@@ -1,0 +1,7 @@
+# Example input file for the assembly_converter.pl program.
+#
+# Using this file:
+#
+#   ./AssemblyMapper.pl -s human -f assemblymapper.in
+
+chromosome:GRCh37:10:70936:71781:1

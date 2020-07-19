@@ -2,6 +2,6 @@
 #
 # Using this file:
 #
-#   ./GRCh38_to_GRCh37.pl -s human -f assemblymapper.in
+#   ./GRCh38_to_GRCh37.pl -s human -f sample_input.in
 
 chromosome:GRCh38:10:25000:25845:1
